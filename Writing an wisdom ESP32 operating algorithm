@@ -1,0 +1,12 @@
+Download Arduino ide
+Then open the preferences from file
+put the following link In Managing the titles of additional panels
+https://dl.espressif.com/dl/package_esp32_index.json
+
+open the boards manger from tools, board: "Arduino Uno " 
+search for ESP32 in the searching box then install
+Connect the ESP32 with your devise with a USB 
+
+choose WEMOS D1 MINI ESP32 from tools, board: "Arduino Uno ", ESP32 Arduino.
+
+choose COM3 from tools , port:"COM3 " 
